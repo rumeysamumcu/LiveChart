@@ -1,6 +1,6 @@
 # LiveChart
 
-#Constant Changes
+# Constant Changes
 
 Toolbox içerisine constant changes aracı eklendi. 
 Oluşturulan grafik hareket halinde gelen verileri kaydırarak çizdirmektedir.
